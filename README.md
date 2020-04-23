@@ -1,2 +1,2 @@
 # MyPython
-Python日常联系
+Python日常练习
